@@ -3,9 +3,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "V12 boş altyapı",
-  "main": "candycode.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node candycode.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -29,4 +29,4 @@
     "express"
   ]
 }
- 
+
