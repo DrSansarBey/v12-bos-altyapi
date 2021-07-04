@@ -1,0 +1,32 @@
+{
+  "//1": "Dr.SansarBey",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "V12 boş altyapı",
+  "main": "candycode.js",
+  "scripts": {
+    "start": "node candycode.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "chalk": "^4.0.0",
+    "moment": "^2.26.0",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
+ 
